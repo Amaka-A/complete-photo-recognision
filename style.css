@@ -1,0 +1,27 @@
+.heading
+{
+    width:80%;
+    font-size:22px;
+
+}
+.name_of_objects,#result_object_name,#result_object_accuracy
+{
+    color: purple;
+    
+}
+#camera
+{
+    border: 2px dashed plum;
+    width: 360px;
+    height: 300px;
+}
+#result
+{
+    border: 10px dashed plum;
+    width: 360px;
+    height: 300px;  
+}
+body{
+    background-color: pink;
+    color:slateblue;
+}
